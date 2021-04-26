@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Riki\\.nuget\\packages\\": {}
+    "C:\\Users\\suzuk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riki\\projects\\liststask1\\liststask1.csproj",
+      "projectUniqueName": "C:\\Users\\suzuk\\Projects\\ArrayAndLists-1\\liststask1\\liststask1.csproj",
       "projectName": "liststask1",
-      "projectPath": "C:\\Users\\Riki\\projects\\liststask1\\liststask1.csproj",
-      "packagesPath": "C:\\Users\\Riki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Riki\\projects\\liststask1\\obj\\",
+      "projectPath": "C:\\Users\\suzuk\\Projects\\ArrayAndLists-1\\liststask1\\liststask1.csproj",
+      "packagesPath": "C:\\Users\\suzuk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\suzuk\\Projects\\ArrayAndLists-1\\liststask1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Riki\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\suzuk\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
