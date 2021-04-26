@@ -1,0 +1,16 @@
+C:\Users\Riki\projects\arraystask1\bin\Debug\net5.0\arraystask1.exe
+C:\Users\Riki\projects\arraystask1\bin\Debug\net5.0\arraystask1.deps.json
+C:\Users\Riki\projects\arraystask1\bin\Debug\net5.0\arraystask1.runtimeconfig.json
+C:\Users\Riki\projects\arraystask1\bin\Debug\net5.0\arraystask1.runtimeconfig.dev.json
+C:\Users\Riki\projects\arraystask1\bin\Debug\net5.0\arraystask1.dll
+C:\Users\Riki\projects\arraystask1\bin\Debug\net5.0\ref\arraystask1.dll
+C:\Users\Riki\projects\arraystask1\bin\Debug\net5.0\arraystask1.pdb
+C:\Users\Riki\projects\arraystask1\obj\Debug\net5.0\arraystask1.csprojAssemblyReference.cache
+C:\Users\Riki\projects\arraystask1\obj\Debug\net5.0\arraystask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riki\projects\arraystask1\obj\Debug\net5.0\arraystask1.AssemblyInfoInputs.cache
+C:\Users\Riki\projects\arraystask1\obj\Debug\net5.0\arraystask1.AssemblyInfo.cs
+C:\Users\Riki\projects\arraystask1\obj\Debug\net5.0\arraystask1.csproj.CoreCompileInputs.cache
+C:\Users\Riki\projects\arraystask1\obj\Debug\net5.0\arraystask1.dll
+C:\Users\Riki\projects\arraystask1\obj\Debug\net5.0\ref\arraystask1.dll
+C:\Users\Riki\projects\arraystask1\obj\Debug\net5.0\arraystask1.pdb
+C:\Users\Riki\projects\arraystask1\obj\Debug\net5.0\arraystask1.genruntimeconfig.cache

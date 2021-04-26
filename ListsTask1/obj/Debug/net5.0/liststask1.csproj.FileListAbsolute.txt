@@ -1,0 +1,5 @@
+C:\Users\Riki\projects\liststask1\obj\Debug\net5.0\liststask1.csprojAssemblyReference.cache
+C:\Users\Riki\projects\liststask1\obj\Debug\net5.0\liststask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riki\projects\liststask1\obj\Debug\net5.0\liststask1.AssemblyInfoInputs.cache
+C:\Users\Riki\projects\liststask1\obj\Debug\net5.0\liststask1.AssemblyInfo.cs
+C:\Users\Riki\projects\liststask1\obj\Debug\net5.0\liststask1.csproj.CoreCompileInputs.cache
