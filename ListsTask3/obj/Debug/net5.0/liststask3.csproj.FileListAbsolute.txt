@@ -1,0 +1,16 @@
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\bin\Debug\net5.0\liststask3.exe
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\bin\Debug\net5.0\liststask3.deps.json
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\bin\Debug\net5.0\liststask3.runtimeconfig.json
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\bin\Debug\net5.0\liststask3.runtimeconfig.dev.json
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\bin\Debug\net5.0\liststask3.dll
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\bin\Debug\net5.0\ref\liststask3.dll
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\bin\Debug\net5.0\liststask3.pdb
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\obj\Debug\net5.0\liststask3.csprojAssemblyReference.cache
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\obj\Debug\net5.0\liststask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\obj\Debug\net5.0\liststask3.AssemblyInfoInputs.cache
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\obj\Debug\net5.0\liststask3.AssemblyInfo.cs
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\obj\Debug\net5.0\liststask3.csproj.CoreCompileInputs.cache
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\obj\Debug\net5.0\liststask3.dll
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\obj\Debug\net5.0\ref\liststask3.dll
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\obj\Debug\net5.0\liststask3.pdb
+C:\Users\suzuk\Projects\arrayandlists-1\liststask3\obj\Debug\net5.0\liststask3.genruntimeconfig.cache

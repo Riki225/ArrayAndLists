@@ -22,6 +22,7 @@ namespace liststask1
 
             if (NumList.Contains(getNum)) {
                 Console.WriteLine(getNum + "  exists in the list");
+                Console.WriteLine("2 instances of the item has been entered");
             }
             else{
                 Console.WriteLine("Done!"); 
